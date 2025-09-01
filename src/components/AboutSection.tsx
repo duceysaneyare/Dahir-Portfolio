@@ -58,7 +58,7 @@ const AboutSection = () => {
               Full-Stack Developer
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6 max-w-2xl text-center lg:text-left leading-relaxed">
-              I’m a passionate Full-Stack Developer with a strong foundation in computer science, holding a BSc from Jamhuriya University. I build intuitive, performant web and mobile apps using modern technologies like React, Node.js, and Flutter. My focus is always on delivering clean, scalable solutions that bring real value to users and businesses alike.
+              I’m a passionate Full-Stack Developer with a strong foundation in computer science, holding a BSc from Jamhuriya University of Science and Technology. I build intuitive, performant web and mobile apps using modern technologies like React, Node.js, and Flutter. My focus is always on delivering clean, scalable solutions that bring real value to users and businesses alike.
             </p>
 
 
