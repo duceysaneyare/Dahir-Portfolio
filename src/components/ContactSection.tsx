@@ -136,7 +136,7 @@ const ContactSection = () => {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-200 dark:border-gray-700">
-          <p className="text-center text-gray-600 dark:text-gray-400 text-sm">Based in Mogadishu, Somalia</p>
+          <p className="text-center text-gray-600 dark:text-gray-400 text-sm">Based in Mogadishu, Somalia.</p>
         </div>
       </div>
 
