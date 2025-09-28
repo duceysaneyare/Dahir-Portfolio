@@ -32,7 +32,7 @@ const EducationSection = () => {
             </Badge>
 
             <div className="mb-1 flex justify-between items-center">
-              <p className="text-gray-700 dark:text-gray-300 font-medium">Jamhuriya University</p>
+              <p className="text-gray-700 dark:text-gray-300 font-medium">Jamhuriya University of Science and Technology</p>
               <p className="text-gray-500 dark:text-gray-400 text-sm">Graduated: 2024</p>
             </div>
 
