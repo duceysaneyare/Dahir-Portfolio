@@ -30,9 +30,9 @@ const Footer = () => {
 
           {/* Logo and Copyright */}
           <div className="text-center md:text-left">
-            <h2 className="text-xl font-bold text-portfolio-blue dark:text-portfolio-blue-light mb-2">
+            {/* <h2 className="text-xl font-bold text-portfolio-blue dark:text-portfolio-blue-light mb-2">
               Dahir<span className="text-gray-800 dark:text-white">.dev</span>
-            </h2>
+            </h2> */}
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               &copy; {currentYear} Dahir Muse Abdulle. All rights reserved.
             </p>

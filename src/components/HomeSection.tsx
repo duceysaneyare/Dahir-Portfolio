@@ -46,7 +46,7 @@ const HomeSection = () => {
             style={{ animationDelay: '0.6s' }}
           >
             <a
-              href="/Dahir_FullStack Developer_CV.pdf"
+              href="/Dahir_Software_Dev_CV.pdf"
               download
               className="flex items-center"
             >
