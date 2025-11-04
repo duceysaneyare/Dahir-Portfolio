@@ -28,7 +28,7 @@ const AboutSection = () => {
 <div className="lg:w-1/3 w-full flex justify-center relative">
   <div className="relative w-64 h-[430px] sm:w-72 sm:h-[460px] overflow-hidden rounded-2xl shadow-xl border border-portfolio-purple/20 dark:border-gray-800 z-10 bg-gradient-to-b from-portfolio-blue/5 to-portfolio-purple/5 transition-all duration-300 hover:scale-105 hover:shadow-2xl">
     <img
-      src="/dahir.png"
+      src="/duceysane.png"
       alt="Dahir Muse"
       className="w-full h-full object-cover filter contrast-105 brightness-105"
       style={{ objectPosition: 'center center' }}

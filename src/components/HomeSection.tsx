@@ -98,7 +98,7 @@ const HomeSection = () => {
           {/* Main image with animated border */}
           <div className="hidden sm:block  rounded w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-[26rem] lg:h-[26rem] xl:w-[28rem] xl:h-[28rem] overflow-hidden shadow-2xl animate-float border-4 border-white dark:border-gray-700 animated-border relative bg-gradient-to-b from-portfolio-purple/10 to-portfolio-teal/10">
             <img
-              src="/dahir.png"
+              src="/duceysane.png"
               alt="Profile Image"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 filter contrast-105 brightness-105"
               style={{ objectPosition: 'center center' }}
